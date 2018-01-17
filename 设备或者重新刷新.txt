@@ -1,0 +1,2 @@
+设备排列布局改变:window.orientationchange
+浏览器窗口的大小发生调整:window.resize
